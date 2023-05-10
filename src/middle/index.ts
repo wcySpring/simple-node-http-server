@@ -1,0 +1,5 @@
+export { default as indexPage } from './indexPage'
+export { default as errorPage } from './errorPage'
+export { default as aboutPage } from './aboutPage'
+export { default as uploadPage } from './uploadPage'
+export { default as uploadFile } from './uploadFile'

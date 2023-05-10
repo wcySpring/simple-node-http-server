@@ -1,0 +1,24 @@
+{
+	"name": "simple-node-http-server",
+	"version": "1.0.0",
+	"description": "使用node http 做一个简单的http服务端",
+	"main": "dist/index.js",
+	"scripts": {
+		"dev": "nodemon"
+	},
+	"keywords": [
+		"node",
+		"http",
+		"server"
+	],
+	"author": "wcyspring",
+	"license": "ISC",
+	"devDependencies": {
+		"nodemon": "^2.0.22",
+		"ts-node": "^10.9.1",
+		"typescript": "^5.0.4"
+	},
+	"dependencies": {
+		"art-template": "^4.13.2"
+	}
+}
